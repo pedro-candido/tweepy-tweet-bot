@@ -1,3 +1,3 @@
-from tweet import tweet
+from tweet import (retweet, tweet, get_bookmarks)
 
-tweet("Hello World 2!")
+get_bookmarks()
